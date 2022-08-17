@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "Juan Actualizade",
+      "empresa": "Codigo con Juan",
+      "email": "Lautarovillarroel2014@gmail.com",
+      "telefono": "03515311527",
+      "notas": "Actuializado",
+      "id": 1
+    },
+    {
+      "nombre": "Netflix",
+      "empresa": "Codigo con Juan",
+      "email": "santiago.ardini@mi.unc.edu.ar",
+      "telefono": "03515311527",
+      "notas": "Probando nuevo cliente",
+      "id": 5
+    },
+    {
+      "nombre": "Andres Fassi",
+      "empresa": "Choreo.com",
+      "email": "elariorodriguez3@gmail.com",
+      "telefono": "2651661551",
+      "notas": "El ladron",
+      "id": 6
+    }
+  ]
+}
